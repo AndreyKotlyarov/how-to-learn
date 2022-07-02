@@ -8,7 +8,8 @@
   color: #2f80ed;
   text-decoration: none;
   z-index: 2;
+  transition: opacity 0.8s ease-in;
 }
 .feynman__link:hover {
-  color: black;
+  opacity: 0.44;
 }
