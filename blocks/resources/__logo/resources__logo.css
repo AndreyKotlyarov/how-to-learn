@@ -1,7 +1,7 @@
 .resources__logo {
   width: 270px;
   height: 38px;
-  object-fit: scale-down;
+  object-fit: contain;
   transition: opacity 0.8s ease-in;
 }
 .resources__logo:hover {
